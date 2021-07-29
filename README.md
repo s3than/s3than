@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning ... everything
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=s3than&show_icons=true)
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=s3than&show_icons=true) -->
 
 <!--
 **s3than/s3than** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
